@@ -1,5 +1,5 @@
 {
-    "mode": true,
+    "mode": false,
     "devices":[
         "2cd0ae839dd0792499eef5ceea7c53d7bca92edf0e0603db876d9457b4e5ea90", 
         "235fd33ec94036f7", --2071919635
